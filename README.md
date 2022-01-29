@@ -46,7 +46,6 @@
    <img  align="left" alt="Heroku" width="45px" src="https://img.icons8.com/color/452/heroku.png">
    
     <br><br>
-<hr>
 
     
 
