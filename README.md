@@ -6,7 +6,7 @@
 ### 💻 About Me
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Gwalior.
-- 💻 Codes in JavaScript, C/C++ and Python.
+- 💻 &nbsp; Codes in JavaScript, C/C++ and Python.
 - ✍️ &nbsp; I'm a Full Stack Web Developer with an active interest in deep learning.
 - ✉️ &nbsp; Feel free to reach out to me here: <ashuparmarap22@gmail.com>
 <br/>
