@@ -11,6 +11,8 @@
 - ✉️ &nbsp; Feel free to reach out to me here: <ashuparmarap22@gmail.com>
 <br/>
 
+<b>To know more about me and what I actually do, check out my website at https://ashutoshp2221.github.io/ <b>
+
 <h3><i><b>Connect with Me:</b></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashutoshp2221/" target="blank">
